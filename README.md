@@ -2,8 +2,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on SleepyCloud and SpaceChat.
-- 🌱 I’m currently learning Electron and .
+- 🔭 I’m currently working on a Swift Project and SpaceCraft.
+- 🌱 I’m currently learning Swift.
 - 👯 I’m looking to collaborate on SleepyCloud (JavaScript)
 - 🤔 I’m looking for help with UI and UX Designing
 - 💬 Ask me about Javascript or whatever you want!
