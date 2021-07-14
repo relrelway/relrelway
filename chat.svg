@@ -321,7 +321,7 @@
 
   <!-- Twitter -->
   <g transform="translate(10, 192)" class="msg-4">
-    <rect width="513" height="42" rx="18.0355" class="bubble" />
+    <rect width="540" height="42" rx="18.0355" class="bubble" />
     <text x="15" y="27">
           You can find me on Twitter at
           <a xlink:href="https://twitter.com/SpaceXLiquid">https://twitter.com/spacexliquid</a>
@@ -348,7 +348,7 @@
 
   <!-- Thanks -->
   <g transform="translate(10, 240)" class="msg-5">
-    <rect width="225" height="42" rx="18.0355" class="bubble" />
+    <rect width="247" height="42" rx="18.0355" class="bubble" />
         <text x="15" y="27">Thanks for stopping by &lt;3</text>
   </g>
 
