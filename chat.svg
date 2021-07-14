@@ -23,7 +23,7 @@
     }
 
     .msg-1 {
-      animation: wait 1.7s, msg-1 0.2s 1.7s;
+      animation: wait 1.3s, msg-1 0.2s 1.7s;
     }
 
     .typing-2 {
