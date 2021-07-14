@@ -11,7 +11,7 @@ jobs:
       - name: Use Node.js ${{ matrix.node-version }}
         uses: actions/setup-node@v2
         with:
-          node-version: 14
+          node-version: 16
       - run: npm install
 
       - name: Generate readme
@@ -22,9 +22,11 @@ jobs:
       - name: Commit changes
         uses: EndBug/add-and-commit@v4
         with:
-          author_name: Farrell D.
-          author_email: spacexliquid@gmail.com
-          message: "Auto updating my readme"
-          add: "*.svg"
+          commit_user_name: Farrell D
+          commit_user_email: spacexliquid@gmail.com
+          commit_author: spacexliquid@gmail.com
+          commit_message: "SpaceXLiquid Automation: Updating README Image"
+          commit_options: "-S"
+          file_pattern: "*.svg"
         env:
           GITHUB_TOKEN: ${{ secrets.GIT_TOKEN }}
