@@ -1,8 +1,6 @@
 name: Update readme
 
-on:
-  schedule:
-    - cron: "0 4 * * *"
+on: push
   workflow_dispatch:
 
 jobs:
