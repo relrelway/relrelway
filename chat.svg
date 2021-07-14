@@ -248,11 +248,11 @@
 
   </g>
 
-  <!-- Hi, I'm Jason -->
-  <g transform="translate(10, 0)" class="msg-1 bubble">
-    <rect width="133" height="42" rx="18.0355" />
-    <text x="15" y="27">Hi, I'm Jason</text>
-  </g>
+  <!-- Hi, I'm Farrell -->
+      <g transform="translate(10, 0)" class="msg-1">
+        <rect width="130" height="42" rx="18.0355" />
+        <text x="15" y="27">Hi, I'm Farrell</text>
+      </g>
 
   <!-- typing 2 -->
   <g transform="translate(10, 48)" class="typing-2">
@@ -275,10 +275,10 @@
   <!-- From Columbus... -->
   <g transform="translate(10, 48)" class="msg-2">
     <rect width="439" height="66.1302" rx="18.0355" class="bubble" />
-    <text x="15" y="27">I live in Columbus, Ohio where it’s supposed to be</text>
-    <text x="15" y="50">84° F (29° C) and <tspan class="emoji">🌤</tspan> today.</text>
+        <text x="15" y="27">I live in Indonesia – it’s supposed to be 29° C</text>
+    <text x="15" y="50">(84° F) and <tspan class="emoji">🌤</tspan> today.</text>
   </g>
-
+  
   <!-- typing 3 -->
   <g transform="translate(10, 120)" class="typing-3">
   <rect x="8.27246" width="69.7276" height="42" rx="20.9774" class="bubble" />
@@ -300,8 +300,8 @@
   <!-- Work ... -->
   <g transform="translate(10, 120)" class="msg-3">
     <rect width="460" height="66.1302" rx="18.0355" class="bubble" />
-    <text x="15" y="27">I’m a product designer. I used to work at GitHub,</text>
-    <text x="15" y="50">but I’ve been at PlanetScale for about 5 months now.</text>
+        <text x="15" y="27">I'm a fullstack developer looking forward to build</text>
+        <text x="15" y="50">stuff that shapes the future!</text>
   </g>
 
   <!-- typing 4 -->
@@ -326,8 +326,8 @@
   <g transform="translate(10, 192)" class="msg-4">
     <rect width="513" height="42" rx="18.0355" class="bubble" />
     <text x="15" y="27">
-      You can find me on Twitter at
-      <a xlink:href="https://twitter.com/jasonlong">https://twitter.com/jasonlong</a>
+          You can find me on Twitter at
+          <a xlink:href="https://twitter.com/SpaceXLiquid">https://twitter.com/spacexliquid</a>
     </text>
   </g>
 
@@ -352,7 +352,7 @@
   <!-- Thanks -->
   <g transform="translate(10, 240)" class="msg-5">
     <rect width="225" height="42" rx="18.0355" class="bubble" />
-    <text x="15" y="27">Thanks for stopping by</text>
+        <text x="15" y="27">Thanks for stopping by &lt;3</text>
   </g>
 
   <!-- typing 6 -->
