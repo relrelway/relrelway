@@ -21,16 +21,13 @@
       opacity: 0;
       animation: fade-in-out 1.5s;
     }
-
     .msg-1 {
-      animation: wait 1.3s, msg-1 0.2s 1.7s;
+      animation: wait 1.7s, msg-1 0.2s 1.7s;
     }
-
     .typing-2 {
       opacity: 0;
       animation: wait 2.5s, fade-in-out 1.5s 2.5s;
     }
-
     .msg-2 {
       animation: wait 4.2s, msg-2 0.2s 4.2s;
     }
@@ -248,11 +245,11 @@
 
   </g>
 
-  <!-- Hi, I'm Farrell -->
-      <g transform="translate(10, 0)" class="msg-1">
-        <rect width="130" height="42" rx="18.0355" />
-        <text x="15" y="27">Hi, I'm Farrell</text>
-      </g>
+  <!-- Hi, I'm Jason -->
+  <g transform="translate(10, 0)" class="msg-1 bubble">
+    <rect width="133" height="42" rx="18.0355" />
+    <text x="15" y="27">Hi, I'm Farrell</text>
+  </g>
 
   <!-- typing 2 -->
   <g transform="translate(10, 48)" class="typing-2">
