@@ -84,7 +84,7 @@ got(url, { prefixUrl: WEATHER_DOMAIN })
       data = data.replace('{weatherEmoji}', emojis[icon])
       data = data.replace('{psTime}', psTime)
       data = data.replace('{todayDay}', todayDay)
-      data = data.replace('{dayBubbleWidth}', dayBubbleWidths[todayDay])
+      data = data.replace('{dayBubbleWidth}', dayBubbleWidths[todayDay] + 10)
 
       data = fs.writeFile('chat.svg', data, (err) => {
         if (err) {
