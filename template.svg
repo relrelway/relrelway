@@ -251,7 +251,7 @@
   <!-- Hi, I'm Jason -->
   <g transform="translate(10, 0)" class="msg-1 bubble">
     <rect width="133" height="42" rx="18.0355" />
-    <text x="15" y="27">Hi, I'm Jason</text>
+    <text x="15" y="27">Hi, I'm Farrell</text>
   </g>
 
   <!-- typing 2 -->
@@ -272,11 +272,11 @@
 
   </g>
 
-  <!-- From Columbus... -->
+  <!-- From Indonesia... -->
   <g transform="translate(10, 48)" class="msg-2">
     <rect width="439" height="66.1302" rx="18.0355" class="bubble" />
-    <text x="15" y="27">I live in Columbus, Ohio where it’s supposed to be</text>
-    <text x="15" y="50">{degF}° F ({degC}° C) and <tspan class="emoji">{weatherEmoji}</tspan> today.</text>
+    <text x="15" y="27">I live in Indonesia, where it’s supposed to be</text>
+    <text x="15" y="50">{degC}° C ({degF}° F) and <tspan class="emoji">{weatherEmoji}</tspan> today.</text>
   </g>
 
   <!-- typing 3 -->
@@ -298,12 +298,12 @@
   </g>
 
   <!-- Work ... -->
-  <g transform="translate(10, 120)" class="msg-3">
-    <rect width="460" height="66.1302" rx="18.0355" class="bubble" />
-    <text x="15" y="27">I’m a product designer. I used to work at GitHub,</text>
-    <text x="15" y="50">but I’ve been at PlanetScale for about {psTime} now.</text>
-  </g>
-
+        <g transform="translate(10, 120)" class="msg-3">
+        <rect width="430" height="66.1302" rx="18.0355" />
+        <text x="15" y="27">I'm a fullstack developer looking forward to build</text>
+        <text x="15" y="50">stuff that shapes the future!</text>
+      </g>
+      
   <!-- typing 4 -->
   <g transform="translate(10, 192)" class="typing-4">
     <rect x="8.27246" width="69.7276" height="42" rx="20.9774" class="bubble" />
@@ -323,13 +323,13 @@
   </g>
 
   <!-- Twitter -->
-  <g transform="translate(10, 192)" class="msg-4">
-    <rect width="513" height="42" rx="18.0355" class="bubble" />
-    <text x="15" y="27">
-      You can find me on Twitter at
-      <a xlink:href="https://twitter.com/jasonlong">https://twitter.com/jasonlong</a>
-    </text>
-  </g>
+      <g transform="translate(10, 192)" class="msg-4">
+        <rect width="500" height="42" rx="18.0355" />
+        <text x="15" y="27">
+          You can find me on Twitter at
+          <a xlink:href="https://twitter.com/SpaceXLiquid">https://twitter.com/spacexliquid</a>
+        </text>
+      </g>
 
   <!-- typing 5 -->
   <g transform="translate(10, 240)" class="typing-5">
@@ -350,10 +350,10 @@
   </g>
 
   <!-- Thanks -->
-  <g transform="translate(10, 240)" class="msg-5">
-    <rect width="225" height="42" rx="18.0355" class="bubble" />
-    <text x="15" y="27">Thanks for stopping by</text>
-  </g>
+      <g transform="translate(10, 240)" class="msg-5">
+        <rect width="230" height="42" rx="18.0355" />
+        <text x="15" y="27">Thanks for stopping by &lt;3</text>
+      </g>
 
   <!-- typing 6 -->
   <g transform="translate(10, 288)" class="typing-6">
