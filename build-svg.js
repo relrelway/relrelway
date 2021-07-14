@@ -49,6 +49,9 @@ dayBubbleWidths = {
   Sunday: 230,
 }
 
+console.log(process.env.WEATHER_API_KEY)
+console.log(process.env)
+
 // Time working at PlanetScale
 const today = new Date()
 const todayDay = new Intl.DateTimeFormat('en-US', { weekday: 'long' }).format(
