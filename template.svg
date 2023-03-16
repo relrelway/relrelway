@@ -299,7 +299,7 @@
 
   <!-- Work ... -->
         <g transform="translate(10, 120)" class="msg-3">
-        <rect width="320" height="42" rx="18.0355" class="bubble" />
+        <rect width="340" height="42" rx="18.0355" class="bubble" />
         <text x="15" y="27">I design, edit, code, and bake (messily)</text>
       </g>
       
@@ -322,7 +322,7 @@
   </g>
 
   <!-- Twitter -->
-      <g transform="translate(10, 192)" class="msg-4">
+      <g transform="translate(10, 48)" class="msg-4">
         <rect width="540" height="42" rx="18.0355" class="bubble"/>
         <text x="15" y="27">
           You can find me on Tiktok at
