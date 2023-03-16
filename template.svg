@@ -300,8 +300,7 @@
   <!-- Work ... -->
         <g transform="translate(10, 120)" class="msg-3">
         <rect width="430" height="66.1302" rx="18.0355" class="bubble" />
-        <text x="15" y="27">I design, edit, code,</text>
-        <text x="15" y="50">and bake (messily)</text>
+        <text x="15" y="27">I design, edit, code, and bake (messily)</text>
       </g>
       
   <!-- typing 4 -->
@@ -326,8 +325,8 @@
       <g transform="translate(10, 192)" class="msg-4">
         <rect width="540" height="42" rx="18.0355" class="bubble"/>
         <text x="15" y="27">
-          You can find me on Instagram at
-          <a xlink:href="https://instagram.com/relishtic">https://instagram.com/relishtic</a>
+          You can find me on Tiktok at
+          <a xlink:href="https://tiktok.com/relishtic">https://tiktok.com/relishtic</a>
         </text>
       </g>
 
