@@ -248,9 +248,9 @@
 
   </g>
 
-  <!-- Hi, I'm lav -->
+  <!-- Hi, I'm relrel -->
   <g transform="translate(10, 0)" class="msg-1 bubble">
-    <rect width="133" height="42" rx="18.0355" />
+    <rect width="125" height="42" rx="18.0355" />
     <text x="15" y="27">Hi, I'm relrel</text>
   </g>
 
@@ -299,7 +299,7 @@
 
   <!-- Work ... -->
         <g transform="translate(10, 120)" class="msg-3">
-        <rect width="430" height="66.1302" rx="18.0355" class="bubble" />
+        <rect width="320" height="42" rx="18.0355" class="bubble" />
         <text x="15" y="27">I design, edit, code, and bake (messily)</text>
       </g>
       
