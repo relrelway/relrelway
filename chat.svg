@@ -248,10 +248,10 @@
 
   </g>
 
-  <!-- Hi, I'm lav -->
+  <!-- Hi, I'm relrel -->
   <g transform="translate(10, 0)" class="msg-1 bubble">
-    <rect width="133" height="42" rx="18.0355" />
-    <text x="15" y="27">Hi, I'm Lav</text>
+    <rect width="125" height="42" rx="18.0355" />
+    <text x="15" y="27">Hi, I'm relrel</text>
   </g>
 
   <!-- typing 2 -->
@@ -276,7 +276,7 @@
   <g transform="translate(10, 48)" class="msg-2">
     <rect width="439" height="66.1302" rx="18.0355" class="bubble" />
     <text x="15" y="27">I live in Indonesia, where it’s supposed to be</text>
-    <text x="15" y="50">32° C (90° F) and <tspan class="emoji">🌦</tspan> today.</text>
+    <text x="15" y="50">31° C (88° F) and <tspan class="emoji">🌦</tspan> today.</text>
   </g>
 
   <!-- typing 3 -->
@@ -299,9 +299,8 @@
 
   <!-- Work ... -->
         <g transform="translate(10, 120)" class="msg-3">
-        <rect width="430" height="66.1302" rx="18.0355" class="bubble" />
-        <text x="15" y="27">I'm a fullstack developer looking forward to build</text>
-        <text x="15" y="50">stuff that shapes the future!</text>
+        <rect width="340" height="42" rx="18.0355" class="bubble" />
+        <text x="15" y="27">I design, edit, code, and bake (messily)</text>
       </g>
       
   <!-- typing 4 -->
@@ -323,11 +322,11 @@
   </g>
 
   <!-- Twitter -->
-      <g transform="translate(10, 192)" class="msg-4">
+      <g transform="translate(10, 48)" class="msg-4">
         <rect width="540" height="42" rx="18.0355" class="bubble"/>
         <text x="15" y="27">
-          You can find me on Twitter at
-          <a xlink:href="https://twitter.com/lavenderlavlav">https://twitter.com/lavenderlavlav</a>
+          You can find me on Tiktok at
+          <a xlink:href="https://tiktok.com/relishtic">https://tiktok.com/relishtic</a>
         </text>
       </g>
 
