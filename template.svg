@@ -299,7 +299,7 @@
 
   <!-- Work ... -->
         <g transform="translate(10, 120)" class="msg-3">
-        <rect width="240" height="42" rx="18.0355" class="bubble" />
+        <rect width="230" height="42" rx="18.0355" class="bubble" />
         <text x="15" y="27">I design, edit, and code</text>
       </g>
       
@@ -323,7 +323,7 @@
 
   <!-- TikTok -->
       <g transform="translate(10, 192)" class="msg-4">
-        <rect width="385" height="42" rx="18.0355" class="bubble"/>
+        <rect width="370" height="42" rx="18.0355" class="bubble"/>
         <text x="15" y="27">
           You can find my portfolio at 
           <a xlink:href="https://heyfarrell.me">heyfarrell.me</a>
@@ -350,7 +350,7 @@
 
   <!-- Thanks -->
       <g transform="translate(10, 240)" class="msg-5">
-        <rect width="225" height="42" rx="18.0355" class="bubble" />
+        <rect width="223" height="42" rx="18.0355" class="bubble" />
         <text x="15" y="27">Thanks for stopping by</text>
       </g>
 
