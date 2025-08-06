@@ -248,10 +248,10 @@
 
   </g>
 
-  <!-- Hi, I'm relrel -->
+  <!-- Hi, I'm Farrell -->
   <g transform="translate(10, 0)" class="msg-1 bubble">
     <rect width="125" height="42" rx="18.0355" />
-    <text x="15" y="27">Hi, I'm relrel</text>
+    <text x="15" y="27">Hi, I'm Farrell</text>
   </g>
 
   <!-- typing 2 -->
@@ -274,8 +274,8 @@
 
   <!-- From Indonesia... -->
   <g transform="translate(10, 48)" class="msg-2">
-    <rect width="439" height="66.1302" rx="18.0355" class="bubble" />
-    <text x="15" y="27">I live in Indonesia, where it’s supposed to be</text>
+    <rect width="450" height="66.1302" rx="18.0355" class="bubble" />
+    <text x="15" y="27">I'm based in Indonesia, where it’s supposed to be</text>
     <text x="15" y="50">{degC}° C ({degF}° F) and <tspan class="emoji">{weatherEmoji}</tspan> today.</text>
   </g>
 
@@ -323,10 +323,10 @@
 
   <!-- TikTok -->
       <g transform="translate(10, 192)" class="msg-4">
-        <rect width="540" height="42" rx="18.0355" class="bubble"/>
+        <rect width="500" height="42" rx="18.0355" class="bubble"/>
         <text x="15" y="27">
-          You can find me on Tiktok at
-          <a xlink:href="https://tiktok.com/relsrelrel">https://tiktok.com/relsrelrel</a>
+          You can find my portfolio at 
+          <a xlink:href="https://heyfarrell.me">heyfarrell.me</a>
         </text>
       </g>
 
