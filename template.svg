@@ -350,8 +350,8 @@
 
   <!-- Thanks -->
       <g transform="translate(10, 240)" class="msg-5">
-        <rect width="250" height="42" rx="18.0355" class="bubble" />
-        <text x="15" y="27">Thanks for stopping by &lt;3</text>
+        <rect width="230" height="42" rx="18.0355" class="bubble" />
+        <text x="15" y="27">Thanks for stopping by</text>
       </g>
 
   <!-- typing 6 -->
